@@ -41,13 +41,13 @@
 *.json linguist-documentation=false
 *.json linguist-language=JSON
 # Red source file
-*.r linguist-detectable=false
+*.r linguist-detectable=true
 *.r linguist-documentation=false
 *.r linguist-language=Red
-*.red linguist-detectable=false
+*.red linguist-detectable=true
 *.red linguist-documentation=false
 *.red linguist-language=Red
-*.reds linguist-detectable=false
+*.reds linguist-detectable=ftrue
 *.reds linguist-documentation=false
 *.reds linguist-language=Red
 # YAML (YAML Ain't Markup Language) document
@@ -184,6 +184,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Tuesday, September 6th at 5:33 pm PST)
+# File version: 3 (2022, Tuesday, September 6th at 5:35 pm PST)
 # Line count (including blank lines and compiler line): 190
 # End of script
